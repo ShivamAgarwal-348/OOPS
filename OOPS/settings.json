@@ -1,0 +1,6 @@
+{
+  "SampleSettings": {
+    "StringSetting": "Setting 1",
+    "IntSetting" :  1
+  }
+}
